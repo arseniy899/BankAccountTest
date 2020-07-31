@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BankAccountTest</string>
+    <string name="valid_thru">VALID THRU</string>
+    <string name="your_balance">Your balance</string>
+    <string name="main">Main</string>
+    <string name="change_currency">Change currency</string>
+    <string name="history">History</string>
+    <string name="my_cards">My cards</string>
+    <string name="loading_error">Error loading data</string>
+    <string name="loading_no_internet">No internet connection. Showing from memory</string>
+    <string name="loading">Loading data…</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="setup_fav_cur">Set your favourite valutes</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="valid_thru">Действ. до</string>
+    <string name="your_balance">Ваш баланс</string>
+    <string name="main">Главная</string>
+    <string name="change_currency">Сменить валюту</string>
+    <string name="history">История</string>
+    <string name="my_cards">Мои карты</string>
+    <string name="loading_error">Ошибка загрузки</string>
+    <string name="loading_no_internet">Нет интернет-соединения. Отображаются данные из памяти</string>
+    <string name="loading">Загрузка данных...</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="setup_fav_cur">Настройте список любимых валют</string>
+</resources>
